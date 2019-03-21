@@ -1,0 +1,24 @@
+{
+  "name": "hbg-webpack",
+  "version": "0.1.0",
+  "description": "Webpack config for Helsingborg Stad JS projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helsingborg-stad/hbg-webpack.git"
+  },
+  "keywords": [
+    "webpack",
+    "bundler",
+    "js"
+  ],
+  "author": "Nikolas Ramstedt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/helsingborg-stad/hbg-webpack/issues"
+  },
+  "homepage": "https://github.com/helsingborg-stad/hbg-webpack#readme"
+}
